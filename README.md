@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @diba01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Simone Di Battista
+- 🎓 Master's Student in Information and Automation Engineering at Marche Polytechnic University.
+- 🚀 Currently involved in projects related to [Artificial Intelligence, ICT Project Management, Big Data].
 
-<!---
-diba01/diba01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
